@@ -1,3 +1,6 @@
+> https://www.marktechpost.com/2024/08/20/openbb-an-open-sourced-python-based-finance-researchplatform/?ref=dailydev
+
+
 <br />
 <img src="https://github.com/OpenBB-finance/OpenBB/blob/develop/images/platform-light.svg?raw=true#gh-light-mode-only" alt="OpenBB Terminal logo" width="600">
 <img src="https://github.com/OpenBB-finance/OpenBB/blob/develop/images/platform-dark.svg?raw=true#gh-dark-mode-only" alt="OpenBB Terminal logo" width="600">
